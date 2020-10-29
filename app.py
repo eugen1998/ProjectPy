@@ -25,13 +25,6 @@ str3 = """
 Но настроение все равно хорошее!
 """
 
-str4 = """
-******Заметки лесника******
-
-         КОНЕЦ
-
-****************************
-"""
 
 os.system('cls')
 
@@ -42,9 +35,6 @@ print(str2, end='\r')
 time.sleep(1)
 
 print(str3, end='\r')
-time.sleep(1)
-
-print(str4, end='\r')
 time.sleep(1)
 
 print('Hallo, die Welt!')
