@@ -47,5 +47,5 @@ time.sleep(1)
 print(str4, end='\r')
 time.sleep(1)
 
-print('Привет мир!')
+print('Привет world!')
 time.sleep(1)
