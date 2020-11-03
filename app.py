@@ -39,3 +39,6 @@ time.sleep(1)
 
 print('Hallo, die Welt!')
 time.sleep(1)
+
+print('Hello, World!')
+time.sleep(1)
